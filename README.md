@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**tarkprmt0/tarkprmt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style = "text-align:center;">
+  <h1>
+    Hi there 	&#x1F609;
+  </h1>
+  <h2>
+    I'm Tarık. I'm Front-end Developer
+  </h2>
+  <p>
+    I'm studying at Nisantasi University, Management Information System department. I improved myself in front-end. You can see my projects.
+  </p>
+</div>
